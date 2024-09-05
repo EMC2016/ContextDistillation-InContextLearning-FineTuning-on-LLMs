@@ -53,7 +53,7 @@ Our implementation involves appending a distilled context, $C$, to the prompts, 
 
 ## Experiments and Codes
 
-Experimental details, results and codes are in [this private repositary](https://github.com/EMC2016/cloudcellviewer_codes.git). 
+Experimental details, results and codes are in [this private repositary](https://github.com/EMC2016/LLM_codes.git). 
 Please reach me emccs99@gmail.com for codes and more.
 
  
